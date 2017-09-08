@@ -14,7 +14,7 @@ int main()
     float max = INT_MAX;
     float min = INT_MIN;
 
-    while(seguir=='s')
+    do
     {
 
         printf("\n1- Ingresar 1er operando (A=%.3f)\n",operando1);
@@ -110,8 +110,10 @@ int main()
                 break;
             case 9:
                 seguir = 'n';
+                system("pause");
+                system("cls");
                 break;
         }
-    }
+    }while(seguir=='s');
     return 0;
 }

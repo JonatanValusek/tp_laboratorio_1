@@ -22,3 +22,16 @@
 
 1491589029 c:\users\avalusek\desktop\tp1calc\funciones.h
 
+1504894183 source:c:\users\avalusek\desktop\lala\tp1_jonatanvalusek_1h\funciones.c
+	"funciones.h"
+	<limits.h>
+
+1504893922 c:\users\avalusek\desktop\lala\tp1_jonatanvalusek_1h\funciones.h
+
+1504894625 source:c:\users\avalusek\desktop\lala\tp1_jonatanvalusek_1h\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<limits.h>
+	"funciones.h"
+
